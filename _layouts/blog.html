@@ -24,8 +24,8 @@ layout: "default"
                         <img src="{{ 'assets/img/blogs/' | append: post.image | relative_url }}" alt="{{ post.title }}">
                         <div class="blog-card-body">
                             <div class="blog-meta">
-                                <span><i class="far fa-calendar me-1"></i>{{ post.date | date: "%-d %B %Y" }}</span>
-                                <span class="ms-3"><i class="far fa-tag me-1"></i>{{ post.categories }}</span>
+                                <!-- <span><i class="far fa-calendar me-1"></i>{{ post.date | date: "%-d %B %Y" }}</span> -->
+                                <span><i class="far fa-tag me-1"></i>{{ post.categories }}</span>
                             </div>
                             <h5>{{ post.title }}</h5>
                             <p>{{ post.excerpt }}</p>
@@ -49,12 +49,12 @@ layout: "default"
                         {% if paginator.previous_page %}
                         <li class="page-item">
                             <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}" aria-label="Previous">
-                                <i class="fas fa-chevron-left me-1"></i> Newer Posts
+                                <i class="fas fa-chevron-left me-1"></i> Previous
                             </a>
                         </li>
                         {% else %}
                         <li class="page-item disabled">
-                            <span class="page-link"><i class="fas fa-chevron-left me-1"></i> Newer Posts</span>
+                            <span class="page-link"><i class="fas fa-chevron-left me-1"></i> Previous</span>
                         </li>
                         {% endif %}
                         
@@ -78,12 +78,12 @@ layout: "default"
                         {% if paginator.next_page %}
                         <li class="page-item">
                             <a class="page-link" href="{{ paginator.next_page_path | relative_url }}" aria-label="Next">
-                                Older Posts <i class="fas fa-chevron-right ms-1"></i>
+                                Next <i class="fas fa-chevron-right ms-1"></i>
                             </a>
                         </li>
                         {% else %}
                         <li class="page-item disabled">
-                            <span class="page-link">Older Posts <i class="fas fa-chevron-right ms-1"></i></span>
+                            <span class="page-link">Next <i class="fas fa-chevron-right ms-1"></i></span>
                         </li>
                         {% endif %}
                     </ul>
