@@ -35,6 +35,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate-v2
   - jekyll-toc
+  - jekyll-redirect-from
 
 # Permalink settings for clean URLs
 permalink: pretty
