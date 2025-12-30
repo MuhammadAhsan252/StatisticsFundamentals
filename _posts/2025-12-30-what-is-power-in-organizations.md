@@ -42,7 +42,7 @@ Later research built on this idea, describing power as:
 
 This highlights that power is inherently **relational**. It exists within relationships, not in isolation.
 
-![Power in Organizations](/assets/img/blogs/power_in_organizations.png)
+![Power in Organizations]({{'/assets/img/blogs/power_in_organizations.png' | relative_url}})
 
 Core Dimensions of Power in Organizations
 -----------------------------------------
