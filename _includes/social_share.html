@@ -1,0 +1,40 @@
+<!-- Social Share -->
+<div class="mt-5 pt-4 border-top">
+  <h5 class="mb-3">Share this article</h5>
+  <div class="d-flex gap-2">
+    <a href="#" class="facebook btn btn-outline-primary btn-sm" target="_blank" rel="noopener">
+      <i class="fab fa-facebook-f me-1"></i>Facebook
+    </a>
+    <a href="#" class="twitter btn btn-outline-info btn-sm" target="_blank" rel="noopener">
+      <i class="fab fa-twitter me-1"></i>Twitter
+    </a>
+    <a href="#" class="linkedin btn btn-outline-primary btn-sm" target="_blank" rel="noopener">
+      <i class="fab fa-linkedin-in me-1"></i>LinkedIn
+    </a>
+    <button class="copy-link btn btn-outline-secondary btn-sm">
+      <i class="fas fa-link me-1"></i>Copy Link
+    </button>
+  </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const link  = encodeURIComponent("{{ page.url | absolute_url }}");
+    const title = encodeURIComponent("{{ page.title }}");
+    const msg   = encodeURIComponent("{{ page.excerpt | strip_html | truncate: 150 }}");
+
+    document.querySelector(".facebook").href =
+      `https://www.facebook.com/sharer/sharer.php?u=${link}`;
+
+    document.querySelector(".twitter").href =
+      `https://twitter.com/intent/tweet?url=${link}&text=${title}`;
+
+    document.querySelector(".linkedin").href =
+      `https://www.linkedin.com/sharing/share-offsite/?url=${link}`;
+
+    document.querySelector(".copy-link").addEventListener("click", function () {
+      navigator.clipboard.writeText("{{ page.url | absolute_url }}");
+      this.innerHTML = '<i class="fas fa-check me-1"></i>Copied';
+    });
+  });
+</script>
