@@ -23,7 +23,7 @@ email: ahsanakbar255@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Technical Leadership for Growing Teams
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.projectstrategy.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.projectstrategizer.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 logo: /assets/img/project_strategizer_logo.png
