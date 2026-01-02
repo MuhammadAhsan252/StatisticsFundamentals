@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What are the types of power in Organizations?"
+title:  "What Are the Types of Power in Organizations?"
 date:   2025-12-30 12:53:54 +0500
 categories: [ Influencing People ]
 image: what_are_the_types_of_power_in_organizations.png
