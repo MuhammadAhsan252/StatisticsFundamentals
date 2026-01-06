@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Build Structural Power?"
-date:   2026-01-05 14:53:54 +0500
+date:   2026-01-06 09:53:54 +0500
 categories: [ Influencing People ]
 image: how_to_build_structural_power.png
 excerpt: Power in organizations doesn’t come from a single source. It is built, reinforced, and maintained through multiple bases.

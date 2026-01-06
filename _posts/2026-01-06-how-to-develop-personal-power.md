@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Develop Personal Power?"
-date:   2026-01-05 15:53:54 +0500
+date:   2026-01-06 09:54:54 +0500
 categories: [ Influencing People ]
 image: how_to_develop_personal_power.png
 excerpt: Power in organizations is not limited to job titles or formal authority.

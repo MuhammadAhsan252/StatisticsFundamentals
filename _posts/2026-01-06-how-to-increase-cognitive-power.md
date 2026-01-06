@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Increase Cognitive Power?"
-date:   2026-01-05 15:53:54 +0500
+date:   2026-01-06 09:55:54 +0500
 categories: [ Influencing People ]
 image: types_of_power_in_organizations.jpg
 excerpt: Power in organizations is not limited to job titles or formal authority.
