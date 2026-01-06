@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Are the Risks of Power?"
-date:   2026-01-04 12:53:54 +0500
+date:   2026-01-05 12:53:54 +0500
 categories: [ Influencing People ]
 image: what_are_the_risks_of_power.png
 excerpt: Power can be a tremendous asset. As we’ve seen, it fuels action, creativity, resilience, and even health.
