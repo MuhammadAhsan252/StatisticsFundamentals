@@ -3,7 +3,7 @@ layout: post
 title:  "How to Increase Cognitive Power?"
 date:   2026-01-06 09:55:54 +0500
 categories: [ Influencing People ]
-image: types_of_power_in_organizations.jpg
+image: how-to-increase-cognitive-power.png
 excerpt: Power in organizations is not limited to job titles or formal authority.
 toc: true
 ---
@@ -72,7 +72,7 @@ These physiological changes reinforce a powerful mindset that lasts beyond the p
 
 Your body can lead your mind into feeling powerful.
 
-![How to increase cognitive power]({{'/assets/img/blogs/types_of_power_in_organizations.jpg' | relative_url}})
+![How to increase cognitive power]({{'/assets/img/blogs/how-to-increase-cognitive-power.png' | relative_url}})
 
 Strategy 2: Remind Yourself of the Power You Already Have
 ---------------------------------------------------------
