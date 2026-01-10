@@ -3,7 +3,7 @@ layout: post
 title:  "What Are the Types of Power in Organizations?"
 date:   2025-12-31 12:53:54 +0500
 categories: [ Influencing People ]
-image: what_are_the_types_of_power_in_organizations.png
+image: what-are-the-types-of-power-in-organizations.png
 excerpt: Influencing people is at the heart of organizational success.
 toc: true
 ---
@@ -41,7 +41,7 @@ Power is not about control or intimidation. It’s about shaping behavior, decis
 
 To understand how this works, researchers have identified **six core bases of power** that explain how influence operates in organizations.
 
-![Power in Organizations]({{'/assets/img/blogs/what_are_the_types_of_power_in_organizations.png' | relative_url}})
+![Power in Organizations]({{'/assets/img/blogs/what-are-the-types-of-power-in-organizations.png' | relative_url}})
 
 The Six Types of Power in Organizations
 ---------------------------------------

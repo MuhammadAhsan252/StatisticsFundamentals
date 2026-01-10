@@ -3,7 +3,7 @@ layout: post
 title:  "How to Build Structural Power?"
 date:   2026-01-06 09:53:54 +0500
 categories: [ Influencing People ]
-image: how_to_build_structural_power.png
+image: how-to-build-structural-power.png
 excerpt: Power in organizations doesn’t come from a single source. It is built, reinforced, and maintained through multiple bases.
 toc: true
 ---
@@ -56,7 +56,7 @@ Effective use of symbols is subtle. Constantly reminding others “I’m the bos
 
 What works will vary by organizational culture. In some environments, credentials matter most; in others, titles or formal processes carry more weight. Understanding your context is essential.
 
-![How to build structural power]({{'/assets/img/blogs/how_to_build_structural_power.png' | relative_url}})
+![How to build structural power]({{'/assets/img/blogs/how-to-build-structural-power.png' | relative_url}})
 
 2\. Leveraging Power by Association
 -----------------------------------

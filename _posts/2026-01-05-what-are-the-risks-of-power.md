@@ -3,7 +3,7 @@ layout: post
 title:  "What Are the Risks of Power?"
 date:   2026-01-05 12:53:54 +0500
 categories: [ Influencing People ]
-image: what_are_the_risks_of_power.png
+image: what-are-the-risks-of-power.png
 excerpt: Power can be a tremendous asset. As we’ve seen, it fuels action, creativity, resilience, and even health.
 toc: true
 ---
@@ -36,7 +36,7 @@ This highlights a dangerous paradox of power:
 
 > **The more powerful you feel, the more certain you become—and the more likely you are to be wrong.**
 
-![What are the risks of Power]({{'/assets/img/blogs/what_are_the_risks_of_power.png' | relative_url}})
+![What are the risks of Power]({{'/assets/img/blogs/what-are-the-risks-of-power.png' | relative_url}})
 
 Power Reduces Willingness to Take Advice
 ----------------------------------------

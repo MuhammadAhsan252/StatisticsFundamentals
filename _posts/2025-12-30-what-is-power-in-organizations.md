@@ -3,7 +3,7 @@ layout: post
 title:  "What is Power in Organizations?"
 date:   2025-12-30 12:53:54 +0500
 categories: [ Influencing People ]
-image: power_in_organizations.png
+image: what-is-power-in-organizations.png
 excerpt: Power is one of the most studied and misunderstood concepts in organizational life.
 toc: true
 ---
@@ -42,7 +42,7 @@ Later research built on this idea, describing power as:
 
 This highlights that power is inherently **relational**. It exists within relationships, not in isolation.
 
-![Power in Organizations]({{'/assets/img/blogs/power_in_organizations.png' | relative_url}})
+![Power in Organizations]({{'/assets/img/blogs/what-is-power-in-organizations.png' | relative_url}})
 
 Core Dimensions of Power in Organizations
 -----------------------------------------

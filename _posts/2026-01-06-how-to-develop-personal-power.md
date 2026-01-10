@@ -3,7 +3,7 @@ layout: post
 title:  "How to Develop Personal Power?"
 date:   2026-01-06 09:54:54 +0500
 categories: [ Influencing People ]
-image: how_to_develop_personal_power.png
+image: how-to-develop-personal-power.png
 excerpt: Power in organizations is not limited to job titles or formal authority.
 toc: true
 ---
@@ -61,7 +61,7 @@ Doctors using “MD” after their name or lawyers displaying degrees in their o
 
 The key is **context**. Cultural norms and organizational expectations vary, so choose symbols that resonate with the people you’re trying to influence.
 
-![How to develop personal power]({{'/assets/img/blogs/how_to_develop_personal_power.png' | relative_url}})
+![How to develop personal power]({{'/assets/img/blogs/how-to-develop-personal-power.png' | relative_url}})
 
 2\. Develop Strong Persuasion Skills
 ------------------------------------

@@ -3,7 +3,7 @@ layout: post
 title:  "What Are the Benefits of Power?"
 date:   2026-01-02 12:53:54 +0500
 categories: [ Influencing People ]
-image: what_are_the_benefits_of_power.png
+image: what-are-the-benefits-of-power.png
 excerpt: Power is often discussed in terms of hierarchy, authority, or control, but far less often in terms of its benefits.
 toc: true
 ---
@@ -48,7 +48,7 @@ This has major implications for teams and organizations:
 
 In short, **power enables innovation**. When team members feel empowered, creativity flourishes.
 
-![What are the benefits of Power]({{'/assets/img/blogs/what_are_the_benefits_of_power.png' | relative_url}})
+![What are the benefits of Power]({{'/assets/img/blogs/what-are-the-benefits-of-power.png' | relative_url}})
 
 Power Reduces the Feeling of Burden
 -----------------------------------
