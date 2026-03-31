@@ -1,1 +1,1 @@
-# Philanware
+# Project Strategizer
