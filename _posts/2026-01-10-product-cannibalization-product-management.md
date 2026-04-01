@@ -8,8 +8,6 @@ excerpt: Learn what product cannibalization means in product management, why it 
 toc: true
 ---
 
-## What Is Product Cannibalization in Product Management?
-
 Product cannibalization occurs when two or more products from the same company compete against each other for the same customers, market share, or revenue. In a product management context, cannibalization is a critical concept because it can silently undermine a company's overall growth even when individual products appear to be performing well.
 
 Rather than capturing new customers or market segments, a cannibalistic product essentially pulls demand away from its sibling products — resulting in a net-zero or even negative impact on the business.
