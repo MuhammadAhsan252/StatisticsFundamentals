@@ -2,7 +2,7 @@
 layout: post
 title:  "What Is Product Cannibalization?"
 date:   2026-01-10 12:53:54 +0500
-categories: [ Influencing People ]
+categories: [ Project Management ]
 image: draft.jpg
 excerpt: Learn what product cannibalization means in product management, why it happens, and how to minimize its impact on your product portfolio.
 toc: true
