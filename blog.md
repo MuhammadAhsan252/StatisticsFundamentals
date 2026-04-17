@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Blog
-description: Insights on technical project management, Agile delivery, startup execution, and lessons learned from real-world product teams.
+description: Understand core physics concepts with ease. From basic principles to real-world applications, we simplify learning and build a strong foundation in physics.
 permalink: /blog/
 pagination: 
   enabled: true

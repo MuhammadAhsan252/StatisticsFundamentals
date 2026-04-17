@@ -1,6 +1,6 @@
 ---
 layout: contact
 title: Contact
-description: Get in touch to discuss technical project management, Agile support, or delivery advisory for your startup or product team.
+description: Have a question about physics? Need help with a concept? Reach out and we’ll help you learn better.
 permalink: /contact/
 ---

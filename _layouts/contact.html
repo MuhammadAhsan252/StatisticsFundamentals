@@ -4,52 +4,88 @@ layout: "default"
 
 <!-- Page Header -->
 <section class="page-header">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <h1 class="page-title">Get in <span class="gradient-text">Touch</span></h1>
-                <p class="page-subtitle">Ready to start your next project? Let's discuss how we can help you achieve your goals.</p>
-            </div>
-        </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h1 class="page-title">Get in <span class="gradient-text">Touch</span></h1>
+        <p class="page-subtitle">
+          Have a question about physics? Need help with a concept? Reach out and we’ll help you learn better.
+        </p>
+      </div>
     </div>
+  </div>
 </section>
 
 <!-- Contact Content -->
 <section class="content-section">
-    <div class="container">
-        <div class="row g-5">
-            <div class="col-lg-8">
-                <div class="service-card">
-                    <h3 class="mb-4">Book Your Free Consultation</h3>
-                    <!-- Calendly inline widget begin -->
-                    <div class="calendly-inline-widget" data-url="https://calendly.com/ahsanakbar255/30min" style="min-width:320px;height:700px;"></div>
-                    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-                    <!-- Calendly inline widget end -->
-                </div>
+  <div class="container">
+    <div class="row g-5">
+
+      <!-- Contact Form -->
+      <div class="col-lg-8">
+        <div class="service-card text-start">
+          <h3 class="mb-4">Send Us a Message</h3>
+
+          <form action="#" method="POST">
+            <div class="row g-3">
+
+              <div class="col-md-6">
+                <label class="form-label">Your Name</label>
+                <input type="text" class="form-control" name="name" placeholder="Enter your name" required>
+              </div>
+
+              <div class="col-md-6">
+                <label class="form-label">Your Email</label>
+                <input type="email" class="form-control" name="email" placeholder="Enter your email" required>
+              </div>
+
+              <div class="col-12">
+                <label class="form-label">Subject</label>
+                <input type="text" class="form-control" name="subject" placeholder="Enter subject">
+              </div>
+
+              <div class="col-12">
+                <label class="form-label">Your Message</label>
+                <textarea class="form-control" name="message" rows="6" placeholder="Ask your question or describe your problem..." required></textarea>
+              </div>
+
+              <div class="col-12">
+                <button type="submit" class="btn btn-primary btn-lg">
+                  <i class="fas fa-paper-plane me-2"></i>Send Message
+                </button>
+              </div>
+
             </div>
-
-            <div class="col-lg-4">
-                <div class="side-card">
-                    <h4 class="mb-4">Get In Touch</h4>
-
-                    <div class="mt-4">
-                        <div class="social-links d-inline-flex">
-                            <a href="https://www.linkedin.com/in/muhammad-ahsan-akbar/" class="social-link"><i class="fab fa-linkedin"></i></a>
-                            <a href="https://github.com/MuhammadAhsan252" class="social-link"><i class="fab fa-github"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="side-card mt-4">
-                    <h5 class="mb-3">Quick Response</h5>
-                    <p>Need immediate assistance?</p>
-                    <div class="d-grid gap-2">
-                        <a href="mailto:ahsanakbar255@gmail.com" class="btn btn-outline-primary">
-                            <i class="fas fa-envelope me-2"></i>Email Now
-                        </a>
-                    </div>
-                </div>
-            </div>
+          </form>
         </div>
+      </div>
+
+      <!-- Sidebar -->
+      <div class="col-lg-4">
+        
+        <div class="side-card">
+          <h4 class="mb-4">Connect With Us</h4>
+
+          <div class="social-links d-inline-flex">
+            <span class="social-link"><i class="fab fa-facebook-f"></i></span>
+            <span class="social-link"><i class="fab fa-twitter"></i></span>
+            <span class="social-link"><i class="fab fa-instagram"></i></span>
+            <span class="social-link"><i class="fab fa-youtube"></i></span>
+          </div>
+        </div>
+
+        <div class="side-card mt-4">
+          <h5 class="mb-3">Quick Help</h5>
+          <p>Need quick assistance with a physics topic?</p>
+          <div class="d-grid gap-2">
+            <a href="mailto:ahsanakbar255@gmail.com" class="btn btn-outline-primary">
+              <i class="fas fa-envelope me-2"></i>Email Us
+            </a>
+          </div>
+        </div>
+
+      </div>
+
     </div>
+  </div>
 </section>

@@ -1,1 +1,1 @@
-# Project Strategizer
+# Physics Fundamentals
