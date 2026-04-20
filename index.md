@@ -1,4 +1,4 @@
 ---
 layout: home
-description: Understand core physics concepts with ease. From basic principles to real-world applications, we simplify learning and build a strong foundation in physics.
+description: Understand core statistical concepts with ease. From basic principles to real-world data analysis, we simplify learning and help you build a strong foundation in statistics.
 ---
