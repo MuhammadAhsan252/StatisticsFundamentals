@@ -788,3 +788,15 @@ margin-top: 30px;
 .h2, h2 {
 font-size: 1.5rem;
 }
+
+th, td {
+  padding: 15px;
+}
+
+table {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 2rem 0;
+}
